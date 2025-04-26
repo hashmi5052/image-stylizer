@@ -1,4 +1,4 @@
-🖼️ Image Stylizer
+**🖼️ Image Stylizer**
 
 An AI-based app to stylize a base image using a reference style image and powerful LoRA models, supporting both local and Replicate API models!
 Built with Gradio, Diffusers, LoRA, and PyTorch.
