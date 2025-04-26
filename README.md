@@ -27,7 +27,7 @@ Built with Gradio, Diffusers, LoRA, and PyTorch.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/image-stylizer.git
+git clone https://github.com/hashmi5052/image-stylizer.git
 cd image-stylizer
 ```
 
