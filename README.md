@@ -105,3 +105,19 @@ bash run_app.sh
 - Click **Submit** to generate your stylized output image!
 
 The final output will be saved automatically inside the `output/` folder.
+
+
+
+
+
+📌 Notes
+
+-Local Models: Place your HuggingFace Diffusers format models inside models/.
+
+-LoRA Weights: Place LoRA .safetensors inside lora/.
+
+-Supports running models on CPU (for lower-end machines) and GPU (for faster processing).
+
+-Replicate API is optional — local models will work even without it!
+
+
