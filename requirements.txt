@@ -5,3 +5,8 @@ pillow
 replicate 
 gradio
 torch
+python-dotenv
+diffusers
+transformers
+accelerate 
+peft
